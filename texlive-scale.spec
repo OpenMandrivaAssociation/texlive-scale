@@ -51,6 +51,7 @@ resolution.
 #- source
 %doc %{_texmfdistdir}/source/latex/scale/scale.dtx
 %doc %{_texmfdistdir}/source/latex/scale/scale.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -61,3 +62,5 @@ resolution.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
