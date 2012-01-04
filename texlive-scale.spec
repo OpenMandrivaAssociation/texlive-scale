@@ -6,7 +6,7 @@
 # catalog-version 1.1.2
 Name:		texlive-scale
 Version:	1.1.2
-Release:	1
+Release:	2
 Summary:	Scale document by sqrt(2) or magstep(2)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scale
