@@ -1,6 +1,6 @@
 Name:		texlive-scale
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Scale document by sqrt(2) or magstep(2)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scale
