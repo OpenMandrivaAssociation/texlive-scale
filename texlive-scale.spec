@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Scale document by sqrt(2) or magstep(2)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scale
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scale
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scale.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scale.doc.r%{version}.tar.xz
